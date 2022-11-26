@@ -17,15 +17,15 @@ function Header() {
             <img src={Logo} alt='' className='header__logo'/>
         </div>
         <div className='header__input'>
-            <input type="text" />
-            <SearchIcon />
-            <KeyboardVoiceIcon />
+            <input placeholder='Search' type="text" />
+            <SearchIcon className='header__inputButton' />
         </div>
+            <KeyboardVoiceIcon />
         <div className='header__icons'>
-            <VideoCallSharpIcon />
-            <AppsOutlinedIcon />
-            <NotificationsIcon />
-            <AccountCircleIcon />
+            <VideoCallSharpIcon className='header__icon' />
+            <AppsOutlinedIcon className='header__icon' />
+            <NotificationsIcon className='header__icon' />
+            <AccountCircleIcon className='header__icon' />
         </div>
        
     </div>
