@@ -1,5 +1,11 @@
 .header__logo{
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
+    align-items: center;
     object-fit:contain;
+    justify-content: space-between;
+}
+
+.header{
+    display: flex;
 }
