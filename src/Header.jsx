@@ -4,6 +4,7 @@ import Logo from './assets/logo.png'
 import MenuSharpIcon from '@mui/icons-material/MenuSharp';
 import VideoCallSharpIcon from '@mui/icons-material/VideoCallSharp';
 import SearchIcon from '@mui/icons-material/Search';
+import KeyboardVoiceIcon from '@mui/icons-material/KeyboardVoice';
 import AppsOutlinedIcon from '@mui/icons-material/AppsOutlined';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
@@ -18,6 +19,7 @@ function Header() {
         <div className='header__input'>
             <input type="text" />
             <SearchIcon />
+            <KeyboardVoiceIcon />
         </div>
         <div className='header__icons'>
             <VideoCallSharpIcon />

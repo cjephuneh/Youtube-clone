@@ -1,11 +1,12 @@
 .header__logo{
-    width: 25px;
-    height: 25px;
-    align-items: center;
+    width: 40px;
+    height: 40px;
     object-fit:contain;
-    justify-content: space-between;
+   
 }
 
 .header{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
