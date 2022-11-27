@@ -4,7 +4,7 @@ import './recommended.css'
 function Recommended() {
   return (
     <div className='recommended'>
-      <p> this is where  videos go </p>
+      <h2>Recommended</h2>
     </div>
   )
 }
