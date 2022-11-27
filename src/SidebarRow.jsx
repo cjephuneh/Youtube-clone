@@ -1,11 +1,11 @@
 import React from 'react'
 import './sidebarRow.css'
 
-function SidebarRow({Icon, title}) {
+function SidebarRow({ selected, Icon, title }) {
   return (
     <div className='sidebarRow'>
-      <Icon />
-      <h2>{title}</h2>
+      <Icon className={`sidebarRow__icon ${selected && 'selected'}`} />
+      <h2 className='sidebarRow__title'>{title}</h2>
     </div>
   )
 }
