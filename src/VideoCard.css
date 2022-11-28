@@ -10,4 +10,6 @@
 
 .video__info{
     display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
 }
