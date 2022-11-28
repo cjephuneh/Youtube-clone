@@ -1,10 +1,11 @@
 import React from 'react'
 import { Avatar } from '@material-ui/core'
+import './VideoCard.css'
 
 function VideoCard({ image, title, channel, timestamp, views, channelImage}) {
   return (
     <div className='videoCard'>
-       <img src={image} alt="" />
+       <img className='video__thumbnail' src={image} alt="" />
         <div className='video__info'>
             <Avatar 
                 className='videoCard__avatar'
