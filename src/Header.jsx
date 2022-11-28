@@ -7,7 +7,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import KeyboardVoiceIcon from '@mui/icons-material/KeyboardVoice';
 import AppsOutlinedIcon from '@mui/icons-material/AppsOutlined';
 import NotificationsIcon from '@mui/icons-material/Notifications';
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
+import { Avatar } from '@mui/material';
 
 function Header() {
   return (
@@ -25,7 +25,10 @@ function Header() {
             <VideoCallSharpIcon className='header__icon' />
             <AppsOutlinedIcon className='header__icon' />
             <NotificationsIcon className='header__icon' />
-            <AccountCircleIcon className='header__icon' />
+            <Avatar className='header__avatar'
+                alt='caleb jephuneh'
+                src='https://avatars.githubusercontent.com/u/92708967?v=4'
+            />
         </div>
        
     </div>

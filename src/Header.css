@@ -44,3 +44,10 @@
     flex: 1;
     border: none;
 }
+
+.header__avatar{
+    object-fit:contain !important;
+    width: 30px !important;
+    height: 30px !important;
+
+}
