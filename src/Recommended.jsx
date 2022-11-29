@@ -28,14 +28,14 @@ function Recommended() {
                   qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaaAX1DWsUvcNWlUKLniab-R5GrQ"
         />
         <VideoCard
-          title="Defender (feat. Cecily & Joe L Barnes) | Maverick City | TRIBL"
-          channel="Tribl"
+          title="Look To The Lamb | Jesus Image | Lindy Cofer"
+          channel="Jesus Image"
           views="2.1M Views"
           timestamp="18 minutes ago"
           channelImage='https://yt3.ggpht.com/ytc/AMLnZu8azY9JXhPIDwumgMh
                         -dXOc73YEPEtUF_ihPx8e3w=s48-c-k-c0x00ffffff-no-rj'
-          image="https://i.ytimg.com/vi/QlRpyo8TEiw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4
-                qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMWMbaVInbQFJXxsuY7SP_wsZMZQ"
+          image="https://i.ytimg.com/vi/Y5kKOI4xZ6c/hq720.jpg?sqp=-oaymwEcCOg
+                  CEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFQZ8c82yF-K1fhLoeVsqHHy4qqA"
         />
         <VideoCard 
           title="I rejected a $360k Google job offer | Software Engineer"
